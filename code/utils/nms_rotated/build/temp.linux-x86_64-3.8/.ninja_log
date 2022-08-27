@@ -1,0 +1,9 @@
+# ninja log v5
+1	10106	1643016089633698543	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/nms_rotated_cpu.o	7faf66cdf4b05873
+2	15475	1643016094997657172	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/poly_nms_cuda.o	5cfadaf2ad3e4dba
+1	17723	1643016097245639760	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/nms_rotated_cuda.o	e46ed5b2f1fdf46a
+1	25338	1643016104861580455	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/nms_rotated_ext.o	867c5ba7c2cdc936
+7	15102	1643019225242477473	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/poly_nms_cuda.o	5cfadaf2ad3e4dba
+6	16528	1643019226634462135	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/nms_rotated_cuda.o	e46ed5b2f1fdf46a
+11	14442	1643020354665803499	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/poly_nms_cuda.o	5cfadaf2ad3e4dba
+10	16110	1643020356333764374	/root/autodl-tmp/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.8/src/nms_rotated_cuda.o	e46ed5b2f1fdf46a
